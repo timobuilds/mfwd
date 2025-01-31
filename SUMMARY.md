@@ -4,10 +4,19 @@
 
 ## Getting started
 
-* [Page 1](getting-started/page-1.md)
-* [Page 2](getting-started/page-2.md)
-* [Page 4](getting-started/page-4.md)
+* [Conceptual](getting-started/conceptual.md)
 
-## Group 2
+## Technical Concepts
 
-* [Page 3](group-2/page-3.md)
+* [Key concepts](technical-concepts/key-concepts/README.md)
+  * [Page 2](technical-concepts/key-concepts/page-2.md)
+  * [Page 7](technical-concepts/key-concepts/page-7.md)
+  * [Page 8](technical-concepts/key-concepts/page-8.md)
+  * [Page 9](technical-concepts/key-concepts/page-9.md)
+* [Transformers](technical-concepts/transformers/README.md)
+  * [Page](technical-concepts/transformers/page.md)
+  * [Page 1](technical-concepts/transformers/page-1.md)
+  * [Page 4](technical-concepts/transformers/page-4.md)
+  * [Page 5](technical-concepts/transformers/page-5.md)
+  * [Page 6](technical-concepts/transformers/page-6.md)
+* [Page 3](technical-concepts/page-3.md)
