@@ -2,10 +2,11 @@
 
 ## Getting started
 
-* [Welcome](README.md)
+* [Agents](README.md)
 
 ## Technical Concepts
 
+* [Vector Databases](technical-concepts/vector-databases.md)
 * [LLM](technical-concepts/llm.md)
 * [Agents](technical-concepts/master.md)
 * [Key concepts](technical-concepts/key-concepts/README.md)
