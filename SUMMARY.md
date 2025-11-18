@@ -2,7 +2,7 @@
 
 ## Getting started
 
-* [Conceptual](README.md)
+* [Welcome](README.md)
 
 ## Technical Concepts
 
@@ -24,3 +24,7 @@
 ## Group 1
 
 * [Page 10](group-1/page-10.md)
+
+***
+
+* [Page 11](page-11.md)
