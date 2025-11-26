@@ -14,7 +14,7 @@ A transformer has 5 main parts:
 
 These are explained in detail below…
 
-<figure><img src="../../.gitbook/assets/Untitled (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled (2).png" alt=""><figcaption></figcaption></figure>
 
 Example: If you type `“Hello, how are”,` into a phone, a transformer may suggest words such as “you”, or “your” as the next word.
 
